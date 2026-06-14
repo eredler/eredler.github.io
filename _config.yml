@@ -23,7 +23,7 @@ repository               : "eredler/eredler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Emily Redler Headshot_6.26.jpeg"
+  avatar           : "images/Emily Redler Headshot_6.26.jpeg"
   name             : "Emily Redler"
   pronouns         : "she/her/hers" 
   bio              : "Ph.D., Organizational Science"
