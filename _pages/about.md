@@ -7,8 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page.
-
 Click the tabs for more information.
-======
 
