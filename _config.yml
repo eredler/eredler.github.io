@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Emily Redler / Ph.D."
+title                    : "Emily S. Redler / Ph.D."
 title_separator          : "-"
 name                     : &name "Emily Redler"
 description              : &description "Emily Redler's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "eredler/eredler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Emily Redler Headshot_6.26.jpeg"
   name             : "Emily Redler"
   pronouns         : "she/her/hers" 
   bio              : "Ph.D., Organizational Science"
   location         : "Charlotte, NC"
-  employer         : "The University of North Carolina at Charlotte"
+  employer         : "UNC Charlotte"
   uri              : # URL
   email            : "eredler@charlotte.edu" 
 
@@ -84,8 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
